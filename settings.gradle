@@ -1,3 +1,2 @@
-include ':projectone'
-include ':projecttwo'
+include('ProjectOne')
 rootProject.name = "basic-multiproject"
