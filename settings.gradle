@@ -1,2 +1,0 @@
-include('ProjectOne')
-rootProject.name = "basic-multiproject"
