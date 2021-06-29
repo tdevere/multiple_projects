@@ -1,0 +1,3 @@
+include('PROJECT_ONE', 'PROJECT_TWO')
+rootProject.name = 'MultiProject'
+
